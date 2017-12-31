@@ -483,7 +483,7 @@ ul.menu-click {
 }
 
 .cross-portfolio.modify div.content:nth-child(5) { /* Update 1.1 : Change div content 5 to parallax image */
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://bryanamezcua.github.io/paralax_photo.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://bryanamezcua.github.io/paralax_photo.jpg');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
