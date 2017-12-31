@@ -199,7 +199,7 @@
   $('.gmap').mobileGmap({
     markers: [{
       position: 'center',
-      info: '121 S Pinckney St',
+      info: 'Los Angeles',
       showInfo: true
     }]
   });
